@@ -33,6 +33,22 @@
 ##### 8. Delete the whole DB.
 ![8](https://github.com/menna-abdallah/MongoDB/assets/139376864/d5af8488-e559-4720-8114-cd50b469ce2c)
 
+###
+#### Lab 2
+###### 1- 
+![1](https://github.com/menna-abdallah/MongoDB/assets/139376864/74bfac75-3182-409b-9405-52bbed39d341)
+
+###### 2-
+![2](https://github.com/menna-abdallah/MongoDB/assets/139376864/a25cb888-0df4-4624-a692-458ff6f91e29)
+
+###### 3-
+![3](https://github.com/menna-abdallah/MongoDB/assets/139376864/e81f3186-2f2a-424a-9bac-38d8c0815af6)
+
+###### 4-
+![4](https://github.com/menna-abdallah/MongoDB/assets/139376864/27088f4b-7bc1-4dc2-84d0-fe2acb0ab7d0)
+
+
+
 
 
 
